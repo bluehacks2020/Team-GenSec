@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login_UI.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Home_UI.unity
+    guid: f1f6f26c6b5050f49baef23f359ebebb
+  - enabled: 1
+    path: Assets/Scenes/ArCam.unity
+    guid: c50165a793714734f85acfc32a0d00ba
+  - enabled: 1
+    path: Assets/Scenes/Register_UI.unity
+    guid: 8c20483bb782bb9418073ff41c404d01
+  m_configObjects: {}
